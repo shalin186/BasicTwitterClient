@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="actionbar_background">#55ACEE</color>
+    <color name="favorite_count">#FFBB33</color>
+    <color name="retweet_count">#669900</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>
